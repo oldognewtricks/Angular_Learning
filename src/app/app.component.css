@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+ 
+h3{
+    text-align: center;
+}
+
+.image_1 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+}
+
+button{
+    text-align:center;
+    margin: auto;
+    
+    display: flex;
+}
+
+input{
+    text-align:center;
+    margin: auto;
+    
+    display: flex;
+}
+
+.value{
+    text-align: center;
+    margin: auto;
+    
+    display: flex;
+}

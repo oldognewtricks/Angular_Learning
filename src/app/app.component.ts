@@ -7,4 +7,20 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-app';
-}
+
+  public name = "Data Binding"
+  public topic = "interpolation binding"
+
+  public image = "/assets/shutterstock_395019136.jpg"
+
+
+  onClick(){
+    console.log("thank you for looking")
+  }
+
+  public value = ""
+    
+
+    
+  }
+
